@@ -1,0 +1,15 @@
+body {
+    background-color: #E2E3E2;
+}
+.bg-footer {
+    background-color: green;
+}
+i, .date {
+    color: #508E1C;
+}
+.progress-bar, .badge {
+    background-color: #508E1C;
+}
+.badge {
+    font-size: 1em;
+}
